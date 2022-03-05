@@ -1,1 +1,0 @@
-# cqdjsk-safety-monitor
